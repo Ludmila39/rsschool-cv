@@ -16,3 +16,15 @@
 - **HTML** - Basic level
 - **CSS** - Basic level
 - **Javascript** -Basic level
+
+4. **Code examples:**
+
+```
+function sum (a,b) {
+    return a+b
+}
+```
+
+5. **Work experience:** I don`t have any work experience in IT
+6. **Education:** High education
+7. **Languages:** English A2
