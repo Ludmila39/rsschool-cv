@@ -63,9 +63,9 @@
   color: #4d2323;
   text-decoration: none;
 }
-.section-img {
+/* .section-img {
   border-radius: 40%;
-}
+} */
 .section-title {
   font-size: 15px;
   font-weight: 400;
@@ -108,9 +108,8 @@ h1 {
 .footer {
   display: flex;
   flex-direction: row;
-  justify-content: space-between;
+  justify-content: space-around;
   align-items: center;
-  padding: 20px;
   background-color: lightgreen;
 }
 .footer-link a {
