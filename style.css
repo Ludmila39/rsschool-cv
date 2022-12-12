@@ -63,11 +63,11 @@
   color: #4d2323;
   text-decoration: none;
 }
-/* .section-img {
-  border-radius: 50%;
-} */
+.section-img {
+  border-radius: 40%;
+}
 .section-title {
-  font-size: 20px;
+  font-size: 15px;
   font-weight: 400;
   text-transform: uppercase;
   letter-spacing: 5px;
@@ -128,7 +128,5 @@ h1 {
   justify-content: space-around;
   align-items: center;  
 } 
-::-webkit-scrollbar {
-  width: 0;
-} 
+ 
   
